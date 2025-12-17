@@ -1,0 +1,4 @@
+project_id = "ipqwxmeupokrkvqzovrd"
+
+[functions.sai-triage]
+verify_jwt = false
